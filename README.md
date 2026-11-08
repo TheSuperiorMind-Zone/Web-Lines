@@ -7,7 +7,7 @@ AI Platform: Mistral, Hugging Face, OpenRouter, Cohere.
 AI Media: Midjourney, Runway, ElevenLabs, Suno.
 AI Coding: Cursor, Windsurf, Replit, Devin.
 Bots: Botpress, ManyChat, Chatfuel, Voiceflow.
-Automation: Zapier, Make, n8n, IFTTT
+Automation: Zapier, Make, n8n, IFTTT.
 
 Quy mô:
 • 143 hostname/domain AI.
